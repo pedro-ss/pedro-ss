@@ -8,5 +8,7 @@
 - 👯 I’m looking to collaborate on Android or Flutter, or Web Development
 - 🤔 I’m looking for help with concept questions
 - 💬 Ask me about Python, JavasCript, Java/Kotlin, or MVC, TDD, etc...
-- 📫 How to reach me: https://www.linkedin.com/in/pedro-de-souza-e-silva-b83666116/
+- 📫 How to reach me: https://www.linkedin.com/in/pedross
 - ⚡ Fun fact: I play drums, love sushi and fight Muay Thai.
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
